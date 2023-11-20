@@ -280,7 +280,7 @@ const UserRegister = () => {
                 <input
                   type="submit"
                   className="btn bg-color custom-bg-text"
-                  value="Register User"
+                  value="Register User shashank"
                 />
               </div>
 
